@@ -1,21 +1,21 @@
 
-Sign up
-thaibaocute
-/
-ddos-go
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-ddos-go/ddos.go
-@thaibaocute
-thaibaocute Create ddos.go
- 1 contributor
-267 lines (258 sloc)  8.8 KB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*
 Coded by LeeOn123
 Please fking code ur script by ur self, kid.
